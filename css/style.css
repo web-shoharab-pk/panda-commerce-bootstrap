@@ -1,6 +1,6 @@
 .top-carousel{
     background-color: #FCEAE8;
-     height: 44em;
+     height: 40em;
 }
 
 .button{
@@ -37,4 +37,44 @@
 .subscribe{
      height: 300px;
       background-color:#FCEAE8;
+}
+
+
+
+@media (max-width: 1195px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 35em;
+    }
+}
+@media (max-width: 992px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 30em;
+    }
+}
+@media (max-width: 769px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 48em;
+    }
+}
+
+@media (max-width: 669px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 48em;
+    }
+}
+@media (max-width: 525px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 44em;
+    }
+}
+@media (max-width: 382px){
+    .top-carousel{
+        background-color: #FCEAE8;
+         height: 40em;
+    }
 }
