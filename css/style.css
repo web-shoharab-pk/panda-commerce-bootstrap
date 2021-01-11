@@ -1,0 +1,40 @@
+.top-carousel{
+    background-color: #FCEAE8;
+     height: 44em;
+}
+
+.button{
+    background-color: #FF2178;
+     color: white;
+      padding: 8px 20px;
+}
+.categories img{
+    width: 100px;
+}
+.card-border{
+    border: 0;
+    background-color: white;
+}
+
+.price{
+    color: #FF2178;
+}
+.border-1{
+    border: 0;
+}
+.border-radius{
+    border-radius: 10px;
+}
+.watch-bg{
+    background-color: #FFA500;
+}
+.bag-bg{
+    background-color: #DA70D6;
+}
+.shoes-bg{
+    background-color: #0000FF;
+}
+.subscribe{
+     height: 300px;
+      background-color:#FCEAE8;
+}
